@@ -2,7 +2,7 @@
 
 int  main()
 {
-    char name[50];
+    char name[50]; 
     char prenom[50];
     int age;
     int sexe;
