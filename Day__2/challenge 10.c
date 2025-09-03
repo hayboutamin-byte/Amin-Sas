@@ -16,7 +16,15 @@ int main()
     printf("entrer le nombre d'annee: ");
     scanf("%d",&annee);
 
-    if(mois <1  || mois)
-
+    if(mois <1  || mois >12)
+    {
+        printf("le mois n'est pas valide");
+    }
+    if(jour <1  || jour >31)
+    {
+        printf("le mois n'est pas valide");
+    }
+    
+    printf("%d-%s-%d",jour ,Nmois[mois],annee);
 
 }
