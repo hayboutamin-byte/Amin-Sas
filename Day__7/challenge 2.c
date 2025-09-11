@@ -16,4 +16,4 @@ int main()
     
     printf("Longueur de chaine de caracteres: %d",longeur - 1);
       
-}
+} 
