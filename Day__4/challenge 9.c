@@ -10,7 +10,7 @@ int main()
 
     printf("enter l'exposant : ");;
     scanf("%d",&exposant);
-    printf("enter l'exposant : ");;
+    printf("enter le base : ");;
     scanf("%d",&base);
 
     if (exposant == 0)
